@@ -13,7 +13,7 @@ Edge AI: Optimized for low-resource devices.
 
 Installation
 
-Clone the repository:git clone https://github.com/yourusername/SwasthAI.git
+Clone the repository:git clone https://github.com/sushantvairat/SwasthAI.git
 cd SwasthAI
 
 
@@ -55,7 +55,7 @@ git add .
 git commit -m "Initial commit"
 
 
-Create a repository on GitHub and link it:git remote add origin https://github.com/yourusername/SwasthAI.git
+Create a repository on GitHub and link it:git remote add origin https://github.com/sushantvairat/SwasthAI.git
 git branch -M main
 git push -u origin main
 
