@@ -1,0 +1,5 @@
+{
+  "db_path": "data/swasthai_data.db",
+  "log_level": "DEBUG",
+  "supported_languages": ["en", "hi"]
+}
