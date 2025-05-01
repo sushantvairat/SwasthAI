@@ -30,19 +30,22 @@ Use the CLI for custom inputs:python src/swasthai/cli/cli.py --name Anita --bp 1
 
 
 Project Structure
+```text
 SwasthAI/
 ├── src/
 │   ├── swasthai/
-│   │   ├── core/           # Core functionality
-│   │   ├── utils/          # Utilities (logging, config)
-│   │   ├── cli/            # Command-line interface
-│   ├── tests/              # Unit tests
-├── config/                 # Configuration files
-├── data/                   # Database storage
+│   │   ├── core/        # Core functionality
+│   │   ├── utils/       # Utilities (logging, config)
+│   │   ├── cli/         # Command-line interface
+│   ├── tests/           # Unit tests
+├── config/              # Configuration files
+├── data/                # Database storage
 ├── README.md
 ├── requirements.txt
 ├── setup.py
 ├── .gitignore
+```
+
 
 Testing
 Run unit tests using:
